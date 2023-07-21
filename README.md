@@ -7,15 +7,7 @@
 ##
     - 👨🏻‍🚀 I’m currently learning Kotlin
     - 💫 Ask me about front-end, animangas, games
-    - 👨🏻‍💻 I'm currently working with: React/React Native, Postgres, MongoDB, Grails, Kotlin
-
-##
-
-<div align="center">
-  <a href="https://github.com/vtbrgt">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vtbrgt&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtbrgt&layout=compact&langs_count=7&theme=moltack"/>
-</div>
+    - 👨🏻‍💻 I'm currently working with: React/React Native, Postgresql, MongoDB, Grails, Kotlin
 
 ##
 
@@ -28,7 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" height="50" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height="50" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="50" width="60" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgresql" height="50" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" height="50" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" title="Grails" height="50" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" height="50" width="60" />
 </div>
 
 ##
