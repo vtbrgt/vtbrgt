@@ -5,9 +5,9 @@
 </div>
 
 ##
-    - 👨🏻‍🚀 I’m currently learning React
+    - 👨🏻‍🚀 I’m currently learning Kotlin
     - 💫 Ask me about front-end, animangas, games
-    - 👨🏻‍💻 Pronouns: he/him
+    - 👨🏻‍💻 I currently work with: React/React Native, Postgres, MongoDB, Grails, Kotlin
 
 ##
 
