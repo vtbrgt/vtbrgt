@@ -7,7 +7,7 @@
 ##
     - 👨🏻‍🚀 I’m currently learning Kotlin
     - 💫 Ask me about front-end, animangas, games
-    - 👨🏻‍💻 I'm currently working with: React/React Native, Postgresql, MongoDB, Grails, Kotlin
+    - 👨🏻‍💻 I'm currently working with: React/React Native, Postgresql, MongoDB, Kotlin
 
 ##
 
