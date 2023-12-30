@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Vitor!</h1>
 
-    - 👨🏻‍🚀 I’m currently learning Kotlin
+    - 👨🏻‍🚀 I’m currently learning Kotlin and Typescript
     - 💫 Ask me about front-end, animangas, games
     - 👨🏻‍💻 I'm currently working with: React/React Native, Postgresql, MongoDB, Kotlin
 
